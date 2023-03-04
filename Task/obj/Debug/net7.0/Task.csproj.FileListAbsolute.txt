@@ -1,0 +1,15 @@
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+D:\Lessons\FinalWork1\FinalWork\Task\bin\Debug\net7.0\Task.exe
+D:\Lessons\FinalWork1\FinalWork\Task\bin\Debug\net7.0\Task.deps.json
+D:\Lessons\FinalWork1\FinalWork\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+D:\Lessons\FinalWork1\FinalWork\Task\bin\Debug\net7.0\Task.dll
+D:\Lessons\FinalWork1\FinalWork\Task\bin\Debug\net7.0\Task.pdb
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.dll
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\refint\Task.dll
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.pdb
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+D:\Lessons\FinalWork1\FinalWork\Task\obj\Debug\net7.0\ref\Task.dll
